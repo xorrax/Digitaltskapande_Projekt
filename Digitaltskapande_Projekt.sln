@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digitaltskapande_Projekt", "Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt.csproj", "{44A048CC-C03E-48C6-8C87-A4B5EFFFB09A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Digitaltskapande_ProjektContent", "Digitaltskapande_Projekt\Digitaltskapande_ProjektContent\Digitaltskapande_ProjektContent.contentproj", "{6ED5B547-4A7C-4710-A03C-2E79A5F7833B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A048CC-C03E-48C6-8C87-A4B5EFFFB09A}.Debug|x86.ActiveCfg = Debug|x86
+		{44A048CC-C03E-48C6-8C87-A4B5EFFFB09A}.Debug|x86.Build.0 = Debug|x86
+		{44A048CC-C03E-48C6-8C87-A4B5EFFFB09A}.Release|x86.ActiveCfg = Release|x86
+		{44A048CC-C03E-48C6-8C87-A4B5EFFFB09A}.Release|x86.Build.0 = Release|x86
+		{6ED5B547-4A7C-4710-A03C-2E79A5F7833B}.Debug|x86.ActiveCfg = Debug|x86
+		{6ED5B547-4A7C-4710-A03C-2E79A5F7833B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

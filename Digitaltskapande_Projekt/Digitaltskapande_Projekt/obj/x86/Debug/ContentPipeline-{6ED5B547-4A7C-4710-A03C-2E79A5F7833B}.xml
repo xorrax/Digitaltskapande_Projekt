@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\oliver nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2015-01-26T23:58:47.294705+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fade.png</Source>
+      <Name>fade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt\bin\x86\Debug\Content\fade.xnb</Output>
+      <Time>2015-01-27T19:53:04.3362464+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\image1.png</Source>
+      <Name>Splash\image1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt\bin\x86\Debug\Content\Splash\image1.xnb</Output>
+      <Time>2015-01-30T16:35:05.710602+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\image2.png</Source>
+      <Name>Splash\image2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt\bin\x86\Debug\Content\Splash\image2.xnb</Output>
+      <Time>2015-01-30T18:13:21.1299811+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\image3.png</Source>
+      <Name>Splash\image3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt\bin\x86\Debug\Content\Splash\image3.xnb</Output>
+      <Time>2015-01-30T18:11:56.5150991+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuFont.spritefont</Source>
+      <Name>MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt\bin\x86\Debug\Content\MenuFont.xnb</Output>
+      <Time>2015-02-02T18:35:21.3894461+01:00</Time>
+    </Item>
+    <Item>
+      <Source>null.png</Source>
+      <Name>null</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt\bin\x86\Debug\Content\null.xnb</Output>
+      <Time>2015-02-03T15:22:05.4182332+01:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSheet.png</Source>
+      <Name>playerSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt\bin\x86\Debug\Content\playerSheet.xnb</Output>
+      <Time>2015-02-07T15:40:48.6378266+01:00</Time>
+    </Item>
+    <Item>
+      <Source>playerRunning.png</Source>
+      <Name>playerRunning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt\bin\x86\Debug\Content\playerRunning.xnb</Output>
+      <Time>2015-02-07T23:31:45.9056508+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles.png</Source>
+      <Name>tiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt\bin\x86\Debug\Content\tiles.xnb</Output>
+      <Time>2015-02-07T23:46:07.7007886+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{6ED5B547-4A7C-4710-A03C-2E79A5F7833B}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_ProjektContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\Digitaltskapande_Projekt\Digitaltskapande_Projekt\Digitaltskapande_Projekt\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-01-25T14:49:29.7742276+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
